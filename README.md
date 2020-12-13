@@ -1,5 +1,5 @@
 # Open-Invention-Hackeeqat-
-Explaination of Team Hackeeqat HackOff v3.0 Hackathon Project.
+Explanation of Team Hackeeqat HackOff v3.0 Hackathon Project.
 
 The Avian Eye aims to identify various bird species. 
 Our project consists of two parts- Machine Learning Model and Web Application.
